@@ -1,0 +1,2 @@
+PROJECT_ID= agntspce-agntspace-ai-p-1-18cd
+SERVICE_ACCOUNT=C:\I&I Work Stuff\Agentspace_Prod.json

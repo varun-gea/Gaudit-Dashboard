@@ -1,0 +1,2 @@
+PROJECT_ID= agntspce-agntspace-ai-d-1-eced
+SERVICE_ACCOUNT=C:\I&I Work Stuff\Agentspace_DEV.json
